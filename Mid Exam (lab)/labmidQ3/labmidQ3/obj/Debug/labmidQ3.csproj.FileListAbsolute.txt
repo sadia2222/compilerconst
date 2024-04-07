@@ -1,0 +1,7 @@
+D:\vs projects\labmidQ3\labmidQ3\bin\Debug\labmidQ3.exe.config
+D:\vs projects\labmidQ3\labmidQ3\bin\Debug\labmidQ3.exe
+D:\vs projects\labmidQ3\labmidQ3\bin\Debug\labmidQ3.pdb
+D:\vs projects\labmidQ3\labmidQ3\obj\Debug\labmidQ3.csproj.AssemblyReference.cache
+D:\vs projects\labmidQ3\labmidQ3\obj\Debug\labmidQ3.csproj.CoreCompileInputs.cache
+D:\vs projects\labmidQ3\labmidQ3\obj\Debug\labmidQ3.exe
+D:\vs projects\labmidQ3\labmidQ3\obj\Debug\labmidQ3.pdb
